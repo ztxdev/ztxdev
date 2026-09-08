@@ -8,6 +8,8 @@ I help diagnose and improve complex software systems, especially where the probl
 build failures, cross-platform compatibility, legacy code, industrial integration, networking,
 deployment, reliability, or maintainability.
 
+**Available for remote technical consulting, diagnostic work, code/architecture review, and contract engineering.**
+
 ---
 
 ## Featured Engineering Projects
