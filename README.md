@@ -10,6 +10,53 @@ deployment, reliability, or maintainability.
 
 ---
 
+## Featured Engineering Projects
+
+### [Software Diagnostic Checklist](https://github.com/ztxdev/software-diagnostic-checklist)
+
+A practical engineering checklist and diagnostic intake workflow for difficult software-system problems.
+
+It covers:
+
+- Build and runtime failures
+- C++ / CMake / toolchain issues
+- Windows / Linux differences
+- Networking and database problems
+- Concurrency, memory, and performance
+- Deployment and dependency failures
+- Root-cause validation and regression checks
+
+The repository also provides a structured **Diagnostic Request** issue form for non-sensitive technical discussions.
+
+**Start a diagnostic request:**  
+https://github.com/ztxdev/software-diagnostic-checklist/issues/new/choose
+
+---
+
+### [CMake Cross-Platform Template](https://github.com/ztxdev/cmake-cross-platform-template)
+
+A compact C++20/CMake engineering template designed as a reproducible cross-platform baseline.
+
+Validated continuously on:
+
+- Windows / MSVC
+- Linux / GCC
+- Linux / Clang
+
+Includes:
+
+- Modern target-based CMake
+- Library + executable separation
+- CTest integration
+- Install/export package support
+- Compiler warning policies
+- GitHub Actions CI
+- Cross-platform line-ending policy
+
+[![CI](https://github.com/ztxdev/cmake-cross-platform-template/actions/workflows/ci.yml/badge.svg)](https://github.com/ztxdev/cmake-cross-platform-template/actions/workflows/ci.yml)
+
+---
+
 ## Core Services
 
 ### 1. Software Troubleshooting
@@ -200,7 +247,10 @@ For open-source collaboration or technical contract discussions:
 
 **GitHub:** [@ztxdev](https://github.com/ztxdev)
 
-You may open an issue in this repository for an initial technical discussion.
+For a non-sensitive technical diagnostic discussion:
+
+**Diagnostic Request:**  
+https://github.com/ztxdev/software-diagnostic-checklist/issues/new/choose
 
 ---
 
